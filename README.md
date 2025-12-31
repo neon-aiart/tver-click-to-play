@@ -25,7 +25,7 @@ TVerのエピソードページを開いた際、動画が勝手に流れ出す�
    * **Tampermonkey**: [https://www.tampermonkey.net/](https://www.tampermonkey.net/)
    * **ScriptCat**: [https://scriptcat.org/](https://scriptcat.org/)
 
-4. **スクリプトをインストール (Install the script):**
+* **スクリプトをインストール (Install the script):**
    * [Greasy Fork](https://greasyfork.org/ja/scripts/560254) にアクセスし、「インストール」ボタンを押してください。  
      Access and click the "Install" button.
 
